@@ -1,5 +1,7 @@
 ***The following project was done as a part of a company's hiring process. It remains operational, though no further progress will likely be made on it.***
 
+***A technical document reflecting on the project- consisting of architecture diagrams, choices made along development, and potential ways to continue the project- is alvailable upon request.***
+
 ---
 
 # Chatbox-Submission
