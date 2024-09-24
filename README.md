@@ -1,5 +1,9 @@
+***The following project was done as a part of a company's hiring process. It remains operational, though no further progress will likely be made on it.***
+
+---
+
 # Chatbox-Submission
-Self-Correcting Chatbot Development
+Self-Correcting AI Chatbot Development
 ## Setup Instructions
 To run the Minstral.py program, first create a new project in an IDE or create a virtual environment, and install the following:
 
